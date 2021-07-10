@@ -1,10 +1,10 @@
 import React from 'react';
-import Header from '../Header/Header';
+import Crickter from '../Crickter/Crickter';
 
 const Home = () => {
     return (
-        <div>
-            <Header />
+        <div id="Home">
+            <Crickter />
         </div>
     );
 };

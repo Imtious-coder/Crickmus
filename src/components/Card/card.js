@@ -1,25 +1,23 @@
-import React, { useState } from 'react';
 import './card.css'
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 const card = (props) => {
     const { name, image, salary } = props.card;
     return (
-        <div id="card">
-            {/* player images */}
-            <div id="image">
-                <img src={image} alt="" />
+        <section>
+            <div className="container" id="card">
+                <div className="row mb-5">
+                    <div className="col-6 col-md-4 mt-5 d-flex justify-content-center">
+                        <img className="Player_Images ml-2" src={image} alt="" />
+                    </div>
+                    <div className="col-6 col-md-8 mt-5">
+                        <p className="Player_Name">Name: {name}</p>
+                        <p className="Player_Salary">Salary: ${salary}</p>
+                        <button className="Select_Button" onClick={() => props.handleAddCrickter(props.crickter)}>Select</button>
+                    </div>
+                </div>
             </div>
-            {/* player info */}
-            <div className="name">
-                <h3>{name}</h3>
-                <small>Salary is:- ${salary}</small>
-                <br /> <br />
-                <button className="btn btn-success" onClick={() => props.handleAddCrickter(props.crickter)}>Select</button>
-
-            </div>
-
-        </div>
+        </section>
     );
 };
 

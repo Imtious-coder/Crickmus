@@ -9,21 +9,6 @@
     "salary": "500000",
     "image": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/210/201.png"
   }, {
-    "id": 3,
-    "name": "Mushfiq",
-    "salary": "600000",
-    "image": "https://3.bp.blogspot.com/-ET4E9fPaTAg/WAoT0NXcILI/AAAAAAAAAPE/9faUb2Jr0so9HcvfgXdPdmIOO5DKWOPTwCEw/s400/491.png"
-  }, {
-    "id": 4,
-    "name": "Tamim",
-    "salary": "550000",
-    "image": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/tamim-iqbal.jpg?itok=ATZxN_bX"
-  }, {
-    "id": 5,
-    "name": "Mustafiz",
-    "salary": "300000",
-    "image": "https://lh3.googleusercontent.com/proxy/bTRNWJGSWwBDPgdoX0y5jv3_08vK2dbDDyVkGO5hqspfenjt-oteZWTkFrzPZDkGKx9pEXib9zGa5NkZPtudOQyBchkfHGG0hfEQhmP75QBSRnnNqBQn8fL8cL5ooKo"
-  }, {
     "id": 6,
     "name": "Sabbir",
     "salary": "280000",

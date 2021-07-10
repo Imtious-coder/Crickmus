@@ -3,15 +3,11 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <div className="Header">
-            <h1>Team Creator</h1>
-            {/* nav links here */}
-            <nav>
-                <a href="/team">Team</a>
-                <a href="/selected">Home</a>
-                <a href="/payment">Payment</a>
-            </nav>
-        </div>
+        <nav class="navbar navbar-light bg-light Header">
+            <div class="container-fluid">
+                <p class="navbar-brand mb-0 h1">Crick<span style={{color:"red"}}>mus</span></p>
+            </div>
+        </nav>
     );
 };
 

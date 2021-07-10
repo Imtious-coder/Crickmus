@@ -1,3 +1,11 @@
+#Main{
+    background: rgb(255, 255, 255);
+}
+.Left_Side{
+    width: 100%;
+    background: rgba(255, 255, 255, 0.11);
+}
+
 .Total-Container{
     display: flex;
 }
