@@ -1,0 +1,17 @@
+.Total_Selected_Player{
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(0, 160, 0);
+    width: 100%;
+    background: rgb(253, 255, 230);
+    padding: 5px 40px 5px 40px;
+}
+.Selected_Players_Name{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px 20px 5px 20px;
+    color: rgb(85, 85, 85);
+    border: 1px solid grey;
+    border-radius: 5px;
+    background: rgb(243, 255, 231);
+}
