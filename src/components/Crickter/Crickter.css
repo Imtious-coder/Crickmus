@@ -1,0 +1,11 @@
+.Total-Container{
+    display: flex;
+}
+.crickter-container{
+    width: 60%;
+    border-right: 1px solid lightgrey;
+    margin-left: 100px;
+}
+.selected-container{
+    text-align: center;
+}
