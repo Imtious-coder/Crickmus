@@ -1,8 +1,8 @@
 # Crickmus
 
-#### Live site (https://serene-kirch-b5529a.netlify.app/)
+#### Live site (https://crickmus.netlify.app)
 
-<a  href="https://serene-kirch-b5529a.netlify.app/"><img  width="100%"  height="100%"  src="./image.png"/></a>
+<a  href="https://crickmus.netlify.app"><img  width="100%"  height="100%"  src="./image.png"/></a>
 
 ## A team selector website by using React.js
 
