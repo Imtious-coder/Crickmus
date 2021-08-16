@@ -1,11 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './SelectedPlayer.css';
 
 const SelectedPlayer = (props) => {
     const selected = props.selected;
-    console.log(
-        "this is ", selected
-    )
     return (
         <section>
             <div className="mt-5">
